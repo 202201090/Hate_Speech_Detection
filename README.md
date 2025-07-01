@@ -68,12 +68,6 @@ This project is live on Hugging Face Spaces using FastAPI
 ![WhatsApp Image 2025-07-01 at 22 07 12](https://github.com/user-attachments/assets/dd79b289-6ccc-41e5-ba46-16f51f353529)
 ![WhatsApp Image 2025-07-01 at 22 07 39](https://github.com/user-attachments/assets/51da2eb0-3121-47c2-ac21-e55fd72e6a44)
 
-
-##Discalimer
-Here’s a succinct disclaimer you can add at the end of your README:
-
----
-
 ## Disclaimer
 This project and all accompanying materials are provided **solely for educational and research purposes**. The models and code herein are **not intended** for production use in real-world content moderation without further validation and testing. The authors **do not** assume any liability for decisions made based on the outputs of these models. Users are responsible for understanding the limitations of automated hate‑speech detection systems and for complying with all applicable laws and platform policies when deploying or using similar tools.
 
