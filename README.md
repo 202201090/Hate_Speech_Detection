@@ -6,6 +6,7 @@ A robust NLP project that uses Classical ML, Deep Learning (GRU + GloVe), and Tr
 - Denil Antala (SID: 202201090)
 - Jami Sidhava (SID: 202201038)
 
+
 ## Goal
 Hate speech is a serious and growing issue on the internet.
 Our goal is to built a system that can reliably detect hateful content in text.
