@@ -1,5 +1,5 @@
 # Hate Speech Detection
-A robust NLP project that uses Classical ML, Deep Learning (GRU + GloVe), and Transformers (RoBERTa, Toxigen-hateBERT) to classify text(tweet/comment) as Hateful or Non-Hateful
+A robust NLP project that uses Classical ML, Deep Learning (GRU + GloVe), and Transformers (RoBERTa, ToxiGen-roberta) to classify text(tweet/comment) as Hateful or Non-Hateful
 
 ## Team
 - Aaryan Sinh Shaurya (SID: 202201075)  
@@ -18,7 +18,7 @@ To do this, we used different types of models — from basic machine learning to
 - Visualization: matplotlib, seaborn, wordcloud
 - ML Models: sklearn (Logistic Regression, Naive Bayes, SVM)
 - Deep Learning: TensorFlow, Keras (GRU + GloVe)
-- Transformers: HuggingFace Transformers (RoBERTa, Toxigen-hateBERT)
+- Transformers: HuggingFace Transformers (RoBERTa, ToxiGen-roberta)
 - Deployment: Hugging Face Spaces
 - Interface: Flask
 
@@ -49,7 +49,7 @@ To do this, we used different types of models — from basic machine learning to
 | Naive Bayes                | Classical ML        | 86.83        |
 | SVM                        | Classical ML        | 94.52        |
 | GloVe - GRU                | Deep Neural Network | 95.80        |
-| RoBERTa / Toxigen-hateBERT | Transformer         | –            |
+| RoBERTa / ToxiGen-roberta  | Transformer         | –            |
 | Ensemble                   | Hybrid              | **Best**     |
 
 ## Deployment
