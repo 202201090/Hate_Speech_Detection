@@ -34,7 +34,7 @@ Hate speech is a serious and growing issue on the internet. Our goal is to built
 
 ## Deployment
 This project is live on Hugging Face Spaces using FastAPI
-- Try it here: https://aaryan24-hate-speech-detector.hf.space/?text=
+- Try it here: https://huggingface.co/spaces/Denil21/Hate_Speech_Detector
 - Original Dataset Link: https://www.kaggle.com/datasets/waalbannyantudre/hate-speech-detection-curated-dataset/data
 - Cleaned Datset Link: https://www.kaggle.com/datasets/h202201075/hate-speech?select=finalhatefull.csv
 
